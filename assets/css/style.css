@@ -151,7 +151,9 @@ nav a:first-child {
 /* Portfolio */
 
 .gallery-photo {
-    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    object-position: 100% 0;
     margin-right: 20px;
     float: left;
 }
@@ -173,7 +175,6 @@ nav a:first-child {
 }
 
 .work img {
-    width: 100%;
     border: 0 none;
     opacity: .7;
 }
