@@ -8,7 +8,7 @@ This is an example responsive Portfolio. The porfolio is not optimal at screen s
 The website utilizes:
 * HTML 5
 * CSS 3
-Hosted by GitHub
+* Hosted by GitHub
 
 ## Acknowledgements
 Special thanks to UW Coding Bootcamp for providing the necessary tools to create this website. 
